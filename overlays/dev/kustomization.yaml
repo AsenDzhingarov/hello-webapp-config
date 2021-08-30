@@ -8,4 +8,4 @@ namespace: hello-webapp-dev-gitops
 
 images:
   - name: asendzhingarov/hello-webapp
-    newTag: "1.22-dev"
+    newTag: "1.24-dev"
