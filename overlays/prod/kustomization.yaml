@@ -8,8 +8,8 @@ namespace: hello-webapp-prod-gitops
 
 images:
   - name: asendzhingarov/hello-webapp
-    newTag: "1.24"
+    newTag: "1.25"
 
 replicas:
   - name: hello-webapp
-    count: 3
+    count: 4
